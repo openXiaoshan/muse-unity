@@ -1,0 +1,13 @@
+Muse Unity — an independent, unofficial community integration.
+Copyright 2026 Muse Unity contributors.
+
+Protocol implementations are adapted from:
+- wong2/muse-client, revision 89a3feaeac8d18f912c33f621e5f59c300b87d36, Apache-2.0.
+- facebookincubator/muse-gadget-sdk, revision 693cde9a884ad1edc87251b9f8944815f8de4809,
+  Copyright (c) Meta Platforms, Inc. and affiliates, Apache-2.0.
+
+Changes: C# Unity port; direct HTTPS/WebSocket Noise transport; native macOS and
+Android BLE and encrypted storage; optional voice UI; provider injection; packaging.
+The original projects' authors retain their rights. This project is not affiliated
+with or endorsed by Meta or Unity Technologies. Muse and Unity names belong to their owners.
+Bouncy Castle is distributed under its own license in Runtime/Plugins/Crypto/LICENSE.md.

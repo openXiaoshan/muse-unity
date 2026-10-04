@@ -1,0 +1,11 @@
+{
+  "name": "Muse.Unity.Editor",
+  "references": [
+    "Muse.Unity",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

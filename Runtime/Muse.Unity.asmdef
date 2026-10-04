@@ -1,0 +1,9 @@
+{
+  "name": "Muse.Unity",
+  "rootNamespace": "Muse.Unity",
+  "references": [
+    "Unity.TextMeshPro",
+    "UnityEngine.UI"
+  ],
+  "autoReferenced": true
+}
